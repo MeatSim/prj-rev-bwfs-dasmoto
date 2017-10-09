@@ -11,8 +11,9 @@ h2 {
   font-size: 32px;
   color: white;
 }
-h1, h2, .price {
+.price {
   font-weight: bold;
+  color: blue;
 }
 #brushes h2 {
   background-color: mediumspringgreen;
@@ -22,7 +23,4 @@ h1, h2, .price {
 }
 #paint h2 {
   background-color: skyblue;
-}
-.price {
-  color: blue;
 }
